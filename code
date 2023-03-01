@@ -1,0 +1,20 @@
+<div id="column1">
+    <div class="img">
+        <img src="./img/MIS-full.png" alt="MIS">
+    </div>
+    <div class="form">
+        <form>
+            <div class="heading">
+                <div class="heading">
+                    <h1>Personal Details</h1>
+                    <p>some info may be visible to others</p>
+                </div>
+                <div class="btn">
+                    <button>Save</button>
+                    <button>Reset</button>
+                </div>
+            </div>
+           
+        </form>
+    </div>
+</div>
